@@ -6,10 +6,10 @@ Gem::Specification.new do |s|
   s.name        = "assoc"
   s.version     = Assoc::VERSION
   s.authors     = ["ujihisa"]
-  s.email       = ["ujihisa@gmail.com"]
+  s.email       = ["ujihisa at gmail.com"]
   s.homepage    = ""
-  s.summary     = %q{TODO: Write a gem summary}
-  s.description = %q{TODO: Write a gem description}
+  s.summary     = %q{Key-value Array utility functions}
+  s.description = %q{Key-value Array utility functions}
 
   s.rubyforge_project = "assoc"
 
